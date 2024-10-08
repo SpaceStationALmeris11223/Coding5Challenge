@@ -1,0 +1,15 @@
+/workspaces/Coding5Challenge/DadJokeArray/bin/Debug/net8.0/DadJokeArray
+/workspaces/Coding5Challenge/DadJokeArray/bin/Debug/net8.0/DadJokeArray.deps.json
+/workspaces/Coding5Challenge/DadJokeArray/bin/Debug/net8.0/DadJokeArray.runtimeconfig.json
+/workspaces/Coding5Challenge/DadJokeArray/bin/Debug/net8.0/DadJokeArray.dll
+/workspaces/Coding5Challenge/DadJokeArray/bin/Debug/net8.0/DadJokeArray.pdb
+/workspaces/Coding5Challenge/DadJokeArray/obj/Debug/net8.0/DadJokeArray.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Coding5Challenge/DadJokeArray/obj/Debug/net8.0/DadJokeArray.AssemblyInfoInputs.cache
+/workspaces/Coding5Challenge/DadJokeArray/obj/Debug/net8.0/DadJokeArray.AssemblyInfo.cs
+/workspaces/Coding5Challenge/DadJokeArray/obj/Debug/net8.0/DadJokeArray.csproj.CoreCompileInputs.cache
+/workspaces/Coding5Challenge/DadJokeArray/obj/Debug/net8.0/DadJokeArray.sourcelink.json
+/workspaces/Coding5Challenge/DadJokeArray/obj/Debug/net8.0/DadJokeArray.dll
+/workspaces/Coding5Challenge/DadJokeArray/obj/Debug/net8.0/refint/DadJokeArray.dll
+/workspaces/Coding5Challenge/DadJokeArray/obj/Debug/net8.0/DadJokeArray.pdb
+/workspaces/Coding5Challenge/DadJokeArray/obj/Debug/net8.0/DadJokeArray.genruntimeconfig.cache
+/workspaces/Coding5Challenge/DadJokeArray/obj/Debug/net8.0/ref/DadJokeArray.dll

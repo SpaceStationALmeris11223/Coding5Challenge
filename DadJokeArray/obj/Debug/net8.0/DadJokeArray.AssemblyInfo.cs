@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DadJokeArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b8e1c82baf874333e6232ff13459c7e5456a255")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5279da1015a083a1d53f00168e7f537144d629d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("DadJokeArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DadJokeArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

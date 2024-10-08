@@ -1,5 +1,7 @@
 ﻿using System;
 
+class Program{
+    static void Main(){
 
 
 var rand = new Random();
@@ -17,9 +19,27 @@ DadJokes [9] = "Did you hear about the cleaners who went to space? They ended up
 DadJokes [10] = "Why do turkeys play percussion? They have drumsticks.";
 DadJokes [11] = "I adopted a dog from a blacksmith. As soon as I brought him home, he made a bolt for the door.";
 
+string YorN = "yes";
+int Numb = rand.Next(1,13); //creates a number between 1-12
 
-int month = rand.Next(1,13); //creates a number between 1-12
-
-Console.WriteLine("Would you like to hear a dad joke?")
-
-string YorN = string.Parse(Console.ReadLine());
+    //Ask the user if they'd like another joke
+    while (YorN.ToLower() == "yes")
+    {
+        //The code below will randomly select a dad joke
+        int Dad1 = rand.Next(0, DadJokes.Length);
+        int Dad2 = rand.Next(0, DadJokes.Length);
+        //The code below makes sure that the 2 jokes are different
+        if (Dad1 == Dad2) {
+            Dad2 = rand.Next(0, DadJokes.Length);
+        }
+        //The new jokes will be displayed below
+        Console.WriteLine($"The first Joke: {DadJokes[Dad1]}");
+        Console.WriteLine($"The first Joke: {DadJokes[Dad2]}");
+    
+    Console.WriteLine("Would you like to hear more jokes? Enter Yes or No");
+    YorN = Console.ReadLine();    
+    }
+    //Exit message
+    Console.WriteLine("We hope you had laugh with our Dad Joke Dispenser. Have a great day");
+ }
+}
